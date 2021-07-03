@@ -1,4 +1,4 @@
-![header](https://github.com/aniljangid0554/aniljangid0554/blob/main/header.png)
+![header](https://github.com/aniljangid0554/aniljangid0554/blob/main/header.jpg)
 <h1 align="center">Hi 👋, I'm Anil</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
